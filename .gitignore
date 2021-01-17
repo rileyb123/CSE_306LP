@@ -1,0 +1,5 @@
+*.txt
+
+callgrind.out.24898
+
+world-valgrind
